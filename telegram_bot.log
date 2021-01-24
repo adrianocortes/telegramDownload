@@ -1,0 +1,831 @@
+2021-01-24 01:55:35,428: ola
+2021-01-24 01:56:26,786: Root Path: /app
+2021-01-24 01:56:26,787: Download Dir: /app/downloads
+2021-01-24 01:56:32,440: Root Path: /app
+2021-01-24 01:56:32,440: Download Dir: /app/downloads
+2021-01-24 01:58:12,676: ###########################################################
+2021-01-24 01:58:12,676: Starting Process!
+2021-01-24 01:58:12,677: Root Path: /app
+2021-01-24 01:58:12,677: Download Dir: /app/downloads
+2021/01/24 02-01:15: ###########################################################
+2021/01/24 02-01:15: Starting Process!
+2021/01/24 02-01:15: Root Path: /app
+2021/01/24 02-01:15: Using Download Dir: /app/downloads
+2021/01/24 02-01:29 - ###########################################################
+2021/01/24 02-01:29 - Starting Process!
+2021/01/24 02-01:29 - Root Path: /app
+2021/01/24 02-01:29 - Using Download Dir: /app/downloads
+severity:logger 2021/01/24 02-03:01 - ###########################################################
+severity:logger 2021/01/24 02-03:01 - Starting Process!
+severity:logger 2021/01/24 02-03:01 - Root Path: /app
+severity:logger 2021/01/24 02-03:01 - Using Download Dir: /app/downloads
+2021/01/24 02-11:46 INFO - ###########################################################
+2021/01/24 02-11:46 INFO - Starting Process!
+2021/01/24 02-11:46 DEBUG - Root Path: /app
+2021/01/24 02-11:46 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-12:34 INFO - ###########################################################
+2021/01/24 02-12:34 INFO - Starting Process!
+2021/01/24 02-12:34 DEBUG - Root Path: /app
+2021/01/24 02-12:34 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-18:57 INFO - ###########################################################
+2021/01/24 02-18:57 INFO - Starting Process!
+2021/01/24 02-18:57 DEBUG - Root Path: /app
+2021/01/24 02-18:57 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-18:57 DEBUG - Using selector: EpollSelector
+2021/01/24 02-18:58 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-18:58 DEBUG - Connection attempt 1...
+2021/01/24 02-18:58 DEBUG - Connection success!
+2021/01/24 02-18:58 DEBUG - New auth_key attempt 1...
+2021/01/24 02-18:59 DEBUG - auth_key generation success!
+2021/01/24 02-18:59 DEBUG - Starting send loop
+2021/01/24 02-18:59 DEBUG - Starting receive loop
+2021/01/24 02-18:59 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145404215966116 to InvokeWithLayerRequest (7fdf4b453d90)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-18:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Receiving items from the network...
+2021/01/24 02-18:59 DEBUG - Handling bad salt for message 6921145404215966116
+2021/01/24 02-18:59 DEBUG - 1 message(s) will be resent
+2021/01/24 02-18:59 DEBUG - Receiving items from the network...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145405082579504 to InvokeWithLayerRequest (7fdf4b453d90)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-18:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145405084144484 to MsgsAck (7fdf4b453ca0)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-18:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Handling container
+2021/01/24 02-18:59 DEBUG - Handling new session created
+2021/01/24 02-18:59 DEBUG - Handling acknowledge for [6921145405082579504]
+2021/01/24 02-18:59 DEBUG - Receiving items from the network...
+2021/01/24 02-18:59 DEBUG - Handling RPC result for message 6921145405082579504
+2021/01/24 02-18:59 DEBUG - Receiving items from the network...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145405986213576 to GetUsersRequest (7fdf4b453850)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-18:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145405987575424 to MsgsAck (7fdf4b453b20)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-18:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Handling RPC result for message 6921145405986213576
+2021/01/24 02-18:59 DEBUG - Receiving items from the network...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145406877029312 to MsgsAck (7fdf4b4539a0)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-18:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-18:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-18:59 DEBUG - Assigned msg_id = 6921145406880213628 to MsgsAck (7fdf4b453700)
+2021/01/24 02-18:59 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-19:16 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-19:16 DEBUG - Waiting for messages to send...
+2021/01/24 02-19:16 DEBUG - Assigned msg_id = 6921145477207704116 to SendCodeRequest (7fdf4b453f10)
+2021/01/24 02-19:16 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-19:16 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-19:16 DEBUG - Waiting for messages to send...
+2021/01/24 02-19:16 DEBUG - Handling RPC result for message 6921145477207704116
+2021/01/24 02-19:16 DEBUG - Receiving items from the network...
+2021/01/24 02-19:16 DEBUG - Assigned msg_id = 6921145478089192916 to MsgsAck (7fdf4b453970)
+2021/01/24 02-19:16 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-19:16 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-19:16 DEBUG - Waiting for messages to send...
+2021/01/24 02-19:16 DEBUG - Assigned msg_id = 6921145478090416480 to MsgsAck (7fdf4b453eb0)
+2021/01/24 02-19:16 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-25:43 INFO - ###########################################################
+2021/01/24 02-25:43 INFO - Starting Process!
+2021/01/24 02-25:43 DEBUG - Root Path: /app
+2021/01/24 02-25:43 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-25:43 DEBUG - Using selector: EpollSelector
+2021/01/24 02-25:43 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-25:43 DEBUG - Connection attempt 1...
+2021/01/24 02-25:43 DEBUG - Connection success!
+2021/01/24 02-25:43 DEBUG - Starting send loop
+2021/01/24 02-25:43 DEBUG - Starting receive loop
+2021/01/24 02-25:43 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-25:43 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:43 DEBUG - Assigned msg_id = 6921147141380181640 to InvokeWithLayerRequest (7f2e33e74520)
+2021/01/24 02-25:43 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-25:43 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:43 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:43 DEBUG - Receiving items from the network...
+2021/01/24 02-25:44 DEBUG - Handling bad salt for message 6921147141380181640
+2021/01/24 02-25:44 DEBUG - 1 message(s) will be resent
+2021/01/24 02-25:44 DEBUG - Receiving items from the network...
+2021/01/24 02-25:44 DEBUG - Assigned msg_id = 6921147142524837468 to InvokeWithLayerRequest (7f2e33e74520)
+2021/01/24 02-25:44 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-25:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:44 DEBUG - Assigned msg_id = 6921147142526276560 to MsgsAck (7f2e33e74640)
+2021/01/24 02-25:44 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-25:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:44 DEBUG - Handling container
+2021/01/24 02-25:44 DEBUG - Handling new session created
+2021/01/24 02-25:44 DEBUG - Handling acknowledge for [6921147142524837468]
+2021/01/24 02-25:44 DEBUG - Receiving items from the network...
+2021/01/24 02-25:44 DEBUG - Handling RPC result for message 6921147142524837468
+2021/01/24 02-25:44 DEBUG - Receiving items from the network...
+2021/01/24 02-25:44 DEBUG - Assigned msg_id = 6921147143492333384 to GetUsersRequest (7f2e33e74e80)
+2021/01/24 02-25:44 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-25:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:44 DEBUG - Assigned msg_id = 6921147143493591280 to MsgsAck (7f2e33e749a0)
+2021/01/24 02-25:44 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-25:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:44 DEBUG - Handling RPC result for message 6921147143492333384
+2021/01/24 02-25:44 DEBUG - Receiving items from the network...
+2021/01/24 02-25:44 DEBUG - Assigned msg_id = 6921147144350679368 to MsgsAck (7f2e33e74ee0)
+2021/01/24 02-25:44 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-25:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:44 DEBUG - Assigned msg_id = 6921147144351837132 to MsgsAck (7f2e33e74cd0)
+2021/01/24 02-25:44 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-25:51 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:51 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:51 DEBUG - Assigned msg_id = 6921147172928814280 to SendCodeRequest (7f2e33e74e20)
+2021/01/24 02-25:51 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-25:51 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:51 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:51 DEBUG - Handling RPC result for message 6921147172928814280
+2021/01/24 02-25:51 DEBUG - Receiving items from the network...
+2021/01/24 02-25:51 DEBUG - Assigned msg_id = 6921147173792445528 to MsgsAck (7f2e33e74910)
+2021/01/24 02-25:51 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-25:51 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-25:51 DEBUG - Waiting for messages to send...
+2021/01/24 02-25:51 DEBUG - Assigned msg_id = 6921147173796305048 to MsgsAck (7f2e33e74a00)
+2021/01/24 02-25:51 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-26:46 INFO - ###########################################################
+2021/01/24 02-26:46 INFO - Starting Process!
+2021/01/24 02-26:46 DEBUG - Root Path: /app
+2021/01/24 02-26:46 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-26:46 DEBUG - Using selector: EpollSelector
+2021/01/24 02-26:46 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-26:46 DEBUG - Connection attempt 1...
+2021/01/24 02-26:46 DEBUG - Connection success!
+2021/01/24 02-26:46 DEBUG - Starting send loop
+2021/01/24 02-26:46 DEBUG - Starting receive loop
+2021/01/24 02-26:46 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-26:46 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:46 DEBUG - Assigned msg_id = 6921147410209664220 to InvokeWithLayerRequest (7fca6d256310)
+2021/01/24 02-26:46 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-26:46 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:46 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:46 DEBUG - Receiving items from the network...
+2021/01/24 02-26:46 DEBUG - Handling bad salt for message 6921147410209664220
+2021/01/24 02-26:46 DEBUG - 1 message(s) will be resent
+2021/01/24 02-26:46 DEBUG - Receiving items from the network...
+2021/01/24 02-26:46 DEBUG - Assigned msg_id = 6921147411050470228 to InvokeWithLayerRequest (7fca6d256310)
+2021/01/24 02-26:46 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-26:46 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:46 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:46 DEBUG - Assigned msg_id = 6921147411052020900 to MsgsAck (7fca6d256430)
+2021/01/24 02-26:46 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-26:46 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:46 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:46 DEBUG - Handling container
+2021/01/24 02-26:46 DEBUG - Handling new session created
+2021/01/24 02-26:46 DEBUG - Handling acknowledge for [6921147411050470228]
+2021/01/24 02-26:46 DEBUG - Receiving items from the network...
+2021/01/24 02-26:46 DEBUG - Handling RPC result for message 6921147411050470228
+2021/01/24 02-26:46 DEBUG - Receiving items from the network...
+2021/01/24 02-26:46 DEBUG - Assigned msg_id = 6921147411949588648 to GetUsersRequest (7fca6d256af0)
+2021/01/24 02-26:46 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-26:46 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:46 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:46 DEBUG - Assigned msg_id = 6921147411954379908 to MsgsAck (7fca6d245fd0)
+2021/01/24 02-26:46 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-26:46 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:46 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:47 DEBUG - Handling RPC result for message 6921147411949588648
+2021/01/24 02-26:47 DEBUG - Receiving items from the network...
+2021/01/24 02-26:47 DEBUG - Assigned msg_id = 6921147413103893752 to MsgsAck (7fca6d256cd0)
+2021/01/24 02-26:47 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-26:47 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:47 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:47 DEBUG - Assigned msg_id = 6921147413107349868 to MsgsAck (7fca6d256df0)
+2021/01/24 02-26:47 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-26:51 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:51 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:51 DEBUG - Assigned msg_id = 6921147433481663708 to SendCodeRequest (7fca6d2569d0)
+2021/01/24 02-26:51 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-26:51 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:51 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:52 DEBUG - Handling RPC result for message 6921147433481663708
+2021/01/24 02-26:52 DEBUG - Receiving items from the network...
+2021/01/24 02-26:52 DEBUG - Assigned msg_id = 6921147434631342536 to MsgsAck (7fca6d256400)
+2021/01/24 02-26:52 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-26:52 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-26:52 DEBUG - Waiting for messages to send...
+2021/01/24 02-26:52 DEBUG - Assigned msg_id = 6921147434635099060 to MsgsAck (7fca6d256f70)
+2021/01/24 02-26:52 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-28:17 INFO - ###########################################################
+2021/01/24 02-28:17 INFO - Starting Process!
+2021/01/24 02-28:17 DEBUG - Root Path: /app
+2021/01/24 02-28:17 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-28:17 DEBUG - Using selector: EpollSelector
+2021/01/24 02-28:17 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-28:17 DEBUG - Connection attempt 1...
+2021/01/24 02-28:17 DEBUG - Connection success!
+2021/01/24 02-28:17 DEBUG - Starting send loop
+2021/01/24 02-28:17 DEBUG - Starting receive loop
+2021/01/24 02-28:17 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147800745823820 to InvokeWithLayerRequest (7fb87c2234f0)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-28:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Receiving items from the network...
+2021/01/24 02-28:17 DEBUG - Handling bad salt for message 6921147800745823820
+2021/01/24 02-28:17 DEBUG - 1 message(s) will be resent
+2021/01/24 02-28:17 DEBUG - Receiving items from the network...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147801614811856 to InvokeWithLayerRequest (7fb87c2234f0)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-28:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147801616067848 to MsgsAck (7fb87c223610)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-28:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Handling container
+2021/01/24 02-28:17 DEBUG - Handling new session created
+2021/01/24 02-28:17 DEBUG - Handling acknowledge for [6921147801614811856]
+2021/01/24 02-28:17 DEBUG - Receiving items from the network...
+2021/01/24 02-28:17 DEBUG - Handling RPC result for message 6921147801614811856
+2021/01/24 02-28:17 DEBUG - Receiving items from the network...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147802500872572 to GetUsersRequest (7fb87c223e50)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-28:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147802502531012 to MsgsAck (7fb87c223970)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-28:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Handling RPC result for message 6921147802500872572
+2021/01/24 02-28:17 DEBUG - Receiving items from the network...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147803529450376 to MsgsAck (7fb87c223eb0)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-28:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:17 DEBUG - Assigned msg_id = 6921147803530800780 to MsgsAck (7fb87c223fd0)
+2021/01/24 02-28:17 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-28:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:22 DEBUG - Assigned msg_id = 6921147822698778244 to SendCodeRequest (7fb87c223df0)
+2021/01/24 02-28:22 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-28:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:22 DEBUG - Handling RPC result for message 6921147822698778244
+2021/01/24 02-28:22 DEBUG - Receiving items from the network...
+2021/01/24 02-28:22 DEBUG - Assigned msg_id = 6921147823579158876 to MsgsAck (7fb87c223bb0)
+2021/01/24 02-28:22 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-28:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-28:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-28:22 DEBUG - Assigned msg_id = 6921147823580988976 to MsgsAck (7fb87c2239d0)
+2021/01/24 02-28:22 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-33:09 INFO - ###########################################################
+2021/01/24 02-33:09 INFO - Starting Process!
+2021/01/24 02-33:09 DEBUG - Root Path: /app
+2021/01/24 02-33:09 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-33:09 DEBUG - Using selector: EpollSelector
+2021/01/24 02-33:09 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-33:09 DEBUG - Connection attempt 1...
+2021/01/24 02-33:09 DEBUG - Connection success!
+2021/01/24 02-33:09 DEBUG - Starting send loop
+2021/01/24 02-33:09 DEBUG - Starting receive loop
+2021/01/24 02-33:09 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-33:09 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:09 DEBUG - Assigned msg_id = 6921149055588520192 to InvokeWithLayerRequest (7f946d183520)
+2021/01/24 02-33:09 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-33:09 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:09 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:09 DEBUG - Receiving items from the network...
+2021/01/24 02-33:09 DEBUG - Handling bad salt for message 6921149055588520192
+2021/01/24 02-33:09 DEBUG - 1 message(s) will be resent
+2021/01/24 02-33:09 DEBUG - Receiving items from the network...
+2021/01/24 02-33:09 DEBUG - Assigned msg_id = 6921149056430912160 to InvokeWithLayerRequest (7f946d183520)
+2021/01/24 02-33:09 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-33:09 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:09 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:09 DEBUG - Assigned msg_id = 6921149056432644036 to MsgsAck (7f946d183640)
+2021/01/24 02-33:09 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-33:09 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:09 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:09 DEBUG - Handling container
+2021/01/24 02-33:09 DEBUG - Handling new session created
+2021/01/24 02-33:09 DEBUG - Handling acknowledge for [6921149056430912160]
+2021/01/24 02-33:09 DEBUG - Receiving items from the network...
+2021/01/24 02-33:10 DEBUG - Handling RPC result for message 6921149056430912160
+2021/01/24 02-33:10 DEBUG - Receiving items from the network...
+2021/01/24 02-33:10 DEBUG - Assigned msg_id = 6921149058350774552 to GetUsersRequest (7f946d183e80)
+2021/01/24 02-33:10 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-33:10 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:10 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:10 DEBUG - Assigned msg_id = 6921149058354990748 to MsgsAck (7f946d1839a0)
+2021/01/24 02-33:10 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-33:10 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:10 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:10 DEBUG - Handling RPC result for message 6921149058350774552
+2021/01/24 02-33:10 DEBUG - Receiving items from the network...
+2021/01/24 02-33:10 DEBUG - Assigned msg_id = 6921149059206216600 to MsgsAck (7f946d183ee0)
+2021/01/24 02-33:10 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-33:10 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:10 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:10 DEBUG - Assigned msg_id = 6921149059210021760 to MsgsAck (7f946d183cd0)
+2021/01/24 02-33:10 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-33:14 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:14 DEBUG - Assigned msg_id = 6921149076301551140 to SendCodeRequest (7f946d183e20)
+2021/01/24 02-33:14 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-33:14 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:14 DEBUG - Handling RPC result for message 6921149076301551140
+2021/01/24 02-33:14 DEBUG - Receiving items from the network...
+2021/01/24 02-33:14 DEBUG - Assigned msg_id = 6921149077154242788 to MsgsAck (7f946d183910)
+2021/01/24 02-33:14 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-33:14 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-33:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-33:14 DEBUG - Assigned msg_id = 6921149077157416620 to MsgsAck (7f946d183a00)
+2021/01/24 02-33:14 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-34:06 INFO - ###########################################################
+2021/01/24 02-34:06 INFO - Starting Process!
+2021/01/24 02-34:06 DEBUG - Root Path: /app
+2021/01/24 02-34:06 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-34:06 DEBUG - Using selector: EpollSelector
+2021/01/24 02-34:06 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-34:06 DEBUG - Connection attempt 1...
+2021/01/24 02-34:07 DEBUG - Connection success!
+2021/01/24 02-34:07 DEBUG - Starting send loop
+2021/01/24 02-34:07 DEBUG - Starting receive loop
+2021/01/24 02-34:07 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149303736020600 to InvokeWithLayerRequest (7f1c4a96a460)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-34:07 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Receiving items from the network...
+2021/01/24 02-34:07 DEBUG - Handling bad salt for message 6921149303736020600
+2021/01/24 02-34:07 DEBUG - 1 message(s) will be resent
+2021/01/24 02-34:07 DEBUG - Receiving items from the network...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149304613050020 to InvokeWithLayerRequest (7f1c4a96a460)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-34:07 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149304616942920 to MsgsAck (7f1c4a96a580)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-34:07 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Handling container
+2021/01/24 02-34:07 DEBUG - Handling new session created
+2021/01/24 02-34:07 DEBUG - Handling acknowledge for [6921149304613050020]
+2021/01/24 02-34:07 DEBUG - Receiving items from the network...
+2021/01/24 02-34:07 DEBUG - Handling RPC result for message 6921149304613050020
+2021/01/24 02-34:07 DEBUG - Receiving items from the network...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149305508295572 to GetUsersRequest (7f1c4a96adc0)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-34:07 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149305510757960 to MsgsAck (7f1c4a96a8e0)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-34:07 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Handling RPC result for message 6921149305508295572
+2021/01/24 02-34:07 DEBUG - Receiving items from the network...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149306396282708 to MsgsAck (7f1c4a96ae20)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-34:07 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:07 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:07 DEBUG - Assigned msg_id = 6921149306399549044 to MsgsAck (7f1c4a96af40)
+2021/01/24 02-34:07 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-34:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:17 DEBUG - Assigned msg_id = 6921149348112420856 to SendCodeRequest (7f1c4a96ad60)
+2021/01/24 02-34:17 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-34:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:17 DEBUG - Handling RPC result for message 6921149348112420856
+2021/01/24 02-34:17 DEBUG - Receiving items from the network...
+2021/01/24 02-34:17 DEBUG - Assigned msg_id = 6921149349025394260 to MsgsAck (7f1c4a96a850)
+2021/01/24 02-34:17 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-34:17 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-34:17 DEBUG - Waiting for messages to send...
+2021/01/24 02-34:17 DEBUG - Assigned msg_id = 6921149349030398188 to MsgsAck (7f1c4a96adf0)
+2021/01/24 02-34:17 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-37:38 INFO - ###########################################################
+2021/01/24 02-37:38 INFO - Starting Process!
+2021/01/24 02-37:38 DEBUG - Root Path: /app
+2021/01/24 02-37:38 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-37:38 DEBUG - Using selector: EpollSelector
+2021/01/24 02-37:38 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-37:38 DEBUG - Connection attempt 1...
+2021/01/24 02-37:38 DEBUG - Connection success!
+2021/01/24 02-37:38 DEBUG - Starting send loop
+2021/01/24 02-37:38 DEBUG - Starting receive loop
+2021/01/24 02-37:38 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-37:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:38 DEBUG - Assigned msg_id = 6921150211387338556 to InvokeWithLayerRequest (7fb9a451a2b0)
+2021/01/24 02-37:38 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-37:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:38 DEBUG - Receiving items from the network...
+2021/01/24 02-37:38 DEBUG - Handling bad salt for message 6921150211387338556
+2021/01/24 02-37:38 DEBUG - 1 message(s) will be resent
+2021/01/24 02-37:38 DEBUG - Receiving items from the network...
+2021/01/24 02-37:38 DEBUG - Assigned msg_id = 6921150212235640444 to InvokeWithLayerRequest (7fb9a451a2b0)
+2021/01/24 02-37:38 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-37:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:38 DEBUG - Assigned msg_id = 6921150212239078440 to MsgsAck (7fb9a451a3d0)
+2021/01/24 02-37:38 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-37:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Handling container
+2021/01/24 02-37:39 DEBUG - Handling new session created
+2021/01/24 02-37:39 DEBUG - Handling acknowledge for [6921150212235640444]
+2021/01/24 02-37:39 DEBUG - Receiving items from the network...
+2021/01/24 02-37:39 DEBUG - Handling RPC result for message 6921150212235640444
+2021/01/24 02-37:39 DEBUG - Receiving items from the network...
+2021/01/24 02-37:39 DEBUG - Assigned msg_id = 6921150213413539448 to GetUsersRequest (7fb9a451aa90)
+2021/01/24 02-37:39 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-37:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Assigned msg_id = 6921150213417714636 to MsgsAck (7fb9a450bf70)
+2021/01/24 02-37:39 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-37:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Handling RPC result for message 6921150213413539448
+2021/01/24 02-37:39 DEBUG - Receiving items from the network...
+2021/01/24 02-37:39 DEBUG - Client Created
+2021/01/24 02-37:39 DEBUG - Assigned msg_id = 6921150214361742536 to GetStateRequest (7fb9a451a2e0)
+2021/01/24 02-37:39 DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2021/01/24 02-37:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Assigned msg_id = 6921150214365080396 to MsgsAck (7fb9a451a3a0)
+2021/01/24 02-37:39 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-37:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Handling RPC result for message 6921150214361742536
+2021/01/24 02-37:39 DEBUG - Receiving items from the network...
+2021/01/24 02-37:39 DEBUG - Starting get Messages one by one
+2021/01/24 02-37:39 DEBUG - Assigned msg_id = 6921150215234270612 to SearchRequest (7fb9a451ac70)
+2021/01/24 02-37:39 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-37:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Assigned msg_id = 6921150215238811056 to MsgsAck (7fb9a451a6d0)
+2021/01/24 02-37:39 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-37:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-37:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-37:39 DEBUG - Handling RPC result for message 6921150215234270612
+2021/01/24 02-37:39 DEBUG - Receiving items from the network...
+2021/01/24 02-38:43 INFO - ###########################################################
+2021/01/24 02-38:43 INFO - Starting Process!
+2021/01/24 02-38:43 DEBUG - Root Path: /app
+2021/01/24 02-38:43 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-38:43 DEBUG - Using selector: EpollSelector
+2021/01/24 02-38:43 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-38:43 DEBUG - Connection attempt 1...
+2021/01/24 02-38:43 DEBUG - Connection success!
+2021/01/24 02-38:43 DEBUG - New auth_key attempt 1...
+2021/01/24 02-38:44 DEBUG - auth_key generation success!
+2021/01/24 02-38:44 DEBUG - Starting send loop
+2021/01/24 02-38:44 DEBUG - Starting receive loop
+2021/01/24 02-38:44 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-38:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:44 DEBUG - Assigned msg_id = 6921150494083044356 to InvokeWithLayerRequest (7f5307227e80)
+2021/01/24 02-38:44 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-38:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-38:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:44 DEBUG - Receiving items from the network...
+2021/01/24 02-38:44 DEBUG - Handling bad salt for message 6921150494083044356
+2021/01/24 02-38:44 DEBUG - 1 message(s) will be resent
+2021/01/24 02-38:44 DEBUG - Receiving items from the network...
+2021/01/24 02-38:44 DEBUG - Assigned msg_id = 6921150494947218248 to InvokeWithLayerRequest (7f5307227e80)
+2021/01/24 02-38:44 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-38:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-38:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:44 DEBUG - Assigned msg_id = 6921150494948720284 to MsgsAck (7f5307227d90)
+2021/01/24 02-38:44 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-38:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-38:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:44 DEBUG - Handling container
+2021/01/24 02-38:44 DEBUG - Handling new session created
+2021/01/24 02-38:44 DEBUG - Handling acknowledge for [6921150494947218248]
+2021/01/24 02-38:44 DEBUG - Receiving items from the network...
+2021/01/24 02-38:44 DEBUG - Handling RPC result for message 6921150494947218248
+2021/01/24 02-38:44 DEBUG - Receiving items from the network...
+2021/01/24 02-38:44 DEBUG - Assigned msg_id = 6921150495842236824 to GetUsersRequest (7f5307227f40)
+2021/01/24 02-38:44 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-38:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-38:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:44 DEBUG - Assigned msg_id = 6921150495843722648 to MsgsAck (7f5307227c70)
+2021/01/24 02-38:44 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-38:44 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-38:44 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:45 DEBUG - Handling RPC result for message 6921150495842236824
+2021/01/24 02-38:45 DEBUG - Receiving items from the network...
+2021/01/24 02-38:45 DEBUG - Assigned msg_id = 6921150497007677028 to MsgsAck (7f5307227f70)
+2021/01/24 02-38:45 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-38:45 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-38:45 DEBUG - Waiting for messages to send...
+2021/01/24 02-38:45 DEBUG - Assigned msg_id = 6921150497009160944 to MsgsAck (7f5307227820)
+2021/01/24 02-38:45 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-39:05 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-39:05 DEBUG - Waiting for messages to send...
+2021/01/24 02-39:05 DEBUG - Assigned msg_id = 6921150582964471336 to SendCodeRequest (7f5307227b80)
+2021/01/24 02-39:05 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-39:05 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-39:05 DEBUG - Waiting for messages to send...
+2021/01/24 02-39:05 DEBUG - Handling RPC result for message 6921150582964471336
+2021/01/24 02-39:05 DEBUG - Receiving items from the network...
+2021/01/24 02-39:05 DEBUG - Assigned msg_id = 6921150583847154136 to MsgsAck (7f53071bc100)
+2021/01/24 02-39:05 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-39:05 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-39:05 DEBUG - Waiting for messages to send...
+2021/01/24 02-39:05 DEBUG - Assigned msg_id = 6921150583850766652 to MsgsAck (7f5307227cd0)
+2021/01/24 02-39:05 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:13 INFO - ###########################################################
+2021/01/24 02-40:13 INFO - Starting Process!
+2021/01/24 02-40:13 DEBUG - Root Path: /app
+2021/01/24 02-40:13 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-40:13 DEBUG - Using selector: EpollSelector
+2021/01/24 02-40:13 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-40:13 DEBUG - Connection attempt 1...
+2021/01/24 02-40:13 DEBUG - Connection success!
+2021/01/24 02-40:13 DEBUG - New auth_key attempt 1...
+2021/01/24 02-40:14 DEBUG - auth_key generation success!
+2021/01/24 02-40:14 DEBUG - Starting send loop
+2021/01/24 02-40:14 DEBUG - Starting receive loop
+2021/01/24 02-40:14 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-40:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:14 DEBUG - Assigned msg_id = 6921150881724382192 to InvokeWithLayerRequest (7ff603fbadf0)
+2021/01/24 02-40:14 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-40:14 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:14 DEBUG - Receiving items from the network...
+2021/01/24 02-40:14 DEBUG - Handling bad salt for message 6921150881724382192
+2021/01/24 02-40:14 DEBUG - 1 message(s) will be resent
+2021/01/24 02-40:14 DEBUG - Receiving items from the network...
+2021/01/24 02-40:14 DEBUG - Assigned msg_id = 6921150882559448036 to InvokeWithLayerRequest (7ff603fbadf0)
+2021/01/24 02-40:14 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-40:14 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:14 DEBUG - Assigned msg_id = 6921150882562886032 to MsgsAck (7ff603fbad00)
+2021/01/24 02-40:14 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:14 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:14 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:15 DEBUG - Handling container
+2021/01/24 02-40:15 DEBUG - Handling new session created
+2021/01/24 02-40:15 DEBUG - Handling acknowledge for [6921150882559448036]
+2021/01/24 02-40:15 DEBUG - Receiving items from the network...
+2021/01/24 02-40:15 DEBUG - Handling RPC result for message 6921150882559448036
+2021/01/24 02-40:15 DEBUG - Receiving items from the network...
+2021/01/24 02-40:15 DEBUG - Assigned msg_id = 6921150883738673600 to GetUsersRequest (7ff603fbaeb0)
+2021/01/24 02-40:15 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-40:15 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:15 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:15 DEBUG - Assigned msg_id = 6921150883743030940 to MsgsAck (7ff603fbab80)
+2021/01/24 02-40:15 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-40:15 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:15 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:15 DEBUG - Handling RPC result for message 6921150883738673600
+2021/01/24 02-40:15 DEBUG - Receiving items from the network...
+2021/01/24 02-40:15 DEBUG - Assigned msg_id = 6921150884588602456 to MsgsAck (7ff603fba970)
+2021/01/24 02-40:15 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:15 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:15 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:15 DEBUG - Assigned msg_id = 6921150884592423832 to MsgsAck (7ff603fba910)
+2021/01/24 02-40:15 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:43 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:43 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:43 DEBUG - Assigned msg_id = 6921151005860376336 to SendCodeRequest (7ff603fba820)
+2021/01/24 02-40:43 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-40:43 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:43 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:43 DEBUG - Handling RPC result for message 6921151005860376336
+2021/01/24 02-40:43 DEBUG - Receiving items from the network...
+2021/01/24 02-40:43 DEBUG - Assigned msg_id = 6921151006713589648 to MsgsAck (7ff603f4d070)
+2021/01/24 02-40:43 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:43 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:43 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:43 DEBUG - Assigned msg_id = 6921151006717556932 to MsgsAck (7ff603fbaf10)
+2021/01/24 02-40:43 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:58 INFO - ###########################################################
+2021/01/24 02-40:58 INFO - Starting Process!
+2021/01/24 02-40:58 DEBUG - Root Path: /app
+2021/01/24 02-40:58 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-40:58 DEBUG - Using selector: EpollSelector
+2021/01/24 02-40:58 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-40:58 DEBUG - Connection attempt 1...
+2021/01/24 02-40:58 DEBUG - Connection success!
+2021/01/24 02-40:58 DEBUG - New auth_key attempt 1...
+2021/01/24 02-40:59 DEBUG - auth_key generation success!
+2021/01/24 02-40:59 DEBUG - Starting send loop
+2021/01/24 02-40:59 DEBUG - Starting receive loop
+2021/01/24 02-40:59 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-40:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:59 DEBUG - Assigned msg_id = 6921151070110782040 to InvokeWithLayerRequest (7f6354f7bbe0)
+2021/01/24 02-40:59 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-40:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:59 DEBUG - Receiving items from the network...
+2021/01/24 02-40:59 DEBUG - Handling bad salt for message 6921151070110782040
+2021/01/24 02-40:59 DEBUG - 1 message(s) will be resent
+2021/01/24 02-40:59 DEBUG - Receiving items from the network...
+2021/01/24 02-40:59 DEBUG - Assigned msg_id = 6921151070960794820 to InvokeWithLayerRequest (7f6354f7bbe0)
+2021/01/24 02-40:59 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-40:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:59 DEBUG - Assigned msg_id = 6921151070962129964 to MsgsAck (7f6354f7baf0)
+2021/01/24 02-40:59 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-40:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:59 DEBUG - Handling container
+2021/01/24 02-40:59 DEBUG - Handling new session created
+2021/01/24 02-40:59 DEBUG - Handling acknowledge for [6921151070960794820]
+2021/01/24 02-40:59 DEBUG - Receiving items from the network...
+2021/01/24 02-40:59 DEBUG - Handling RPC result for message 6921151070960794820
+2021/01/24 02-40:59 DEBUG - Receiving items from the network...
+2021/01/24 02-40:59 DEBUG - Assigned msg_id = 6921151071835537328 to GetUsersRequest (7f6354f7be20)
+2021/01/24 02-40:59 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-40:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-40:59 DEBUG - Assigned msg_id = 6921151071837013616 to MsgsAck (7f6354f7b970)
+2021/01/24 02-40:59 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-40:59 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-40:59 DEBUG - Waiting for messages to send...
+2021/01/24 02-41:00 DEBUG - Handling RPC result for message 6921151071835537328
+2021/01/24 02-41:00 DEBUG - Receiving items from the network...
+2021/01/24 02-41:00 DEBUG - Assigned msg_id = 6921151072995828644 to MsgsAck (7f6354f7b5b0)
+2021/01/24 02-41:00 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-41:00 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-41:00 DEBUG - Waiting for messages to send...
+2021/01/24 02-41:00 DEBUG - Assigned msg_id = 6921151072997531904 to MsgsAck (7f6354f7bee0)
+2021/01/24 02-41:00 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-41:05 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-41:05 DEBUG - Waiting for messages to send...
+2021/01/24 02-41:05 DEBUG - Assigned msg_id = 6921151096375683928 to SendCodeRequest (7f6354f7bdc0)
+2021/01/24 02-41:05 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-41:05 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-41:05 DEBUG - Waiting for messages to send...
+2021/01/24 02-41:05 DEBUG - Handling RPC result for message 6921151096375683928
+2021/01/24 02-41:05 DEBUG - Receiving items from the network...
+2021/01/24 02-41:05 DEBUG - Assigned msg_id = 6921151097390818740 to MsgsAck (7f6354f7b700)
+2021/01/24 02-41:05 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-41:05 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-41:05 DEBUG - Waiting for messages to send...
+2021/01/24 02-41:05 DEBUG - Assigned msg_id = 6921151097394773628 to MsgsAck (7f6354f7bca0)
+2021/01/24 02-41:05 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-42:21 INFO - ###########################################################
+2021/01/24 02-42:21 INFO - Starting Process!
+2021/01/24 02-42:21 DEBUG - Root Path: /app
+2021/01/24 02-42:21 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-42:21 DEBUG - Using selector: EpollSelector
+2021/01/24 02-42:21 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-42:21 DEBUG - Connection attempt 1...
+2021/01/24 02-42:22 DEBUG - Connection success!
+2021/01/24 02-42:22 DEBUG - Starting send loop
+2021/01/24 02-42:22 DEBUG - Starting receive loop
+2021/01/24 02-42:22 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151429058738792 to InvokeWithLayerRequest (7f06aa8044f0)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-42:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Receiving items from the network...
+2021/01/24 02-42:22 DEBUG - Handling bad salt for message 6921151429058738792
+2021/01/24 02-42:22 DEBUG - 1 message(s) will be resent
+2021/01/24 02-42:22 DEBUG - Receiving items from the network...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151429935966576 to InvokeWithLayerRequest (7f06aa8044f0)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-42:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151429939134680 to MsgsAck (7f06aa804610)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-42:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Handling container
+2021/01/24 02-42:22 DEBUG - Handling new session created
+2021/01/24 02-42:22 DEBUG - Handling acknowledge for [6921151429935966576]
+2021/01/24 02-42:22 DEBUG - Receiving items from the network...
+2021/01/24 02-42:22 DEBUG - Handling RPC result for message 6921151429935966576
+2021/01/24 02-42:22 DEBUG - Receiving items from the network...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151430847005928 to GetUsersRequest (7f06aa804e50)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-42:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151430850614632 to MsgsAck (7f06aa804970)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-42:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Handling RPC result for message 6921151430847005928
+2021/01/24 02-42:22 DEBUG - Receiving items from the network...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151431737234200 to MsgsAck (7f06aa804eb0)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-42:22 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:22 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:22 DEBUG - Assigned msg_id = 6921151431740321244 to MsgsAck (7f06aa804fd0)
+2021/01/24 02-42:22 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-42:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:29 DEBUG - Assigned msg_id = 6921151459798053244 to SendCodeRequest (7f06aa804df0)
+2021/01/24 02-42:29 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-42:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:29 DEBUG - Handling RPC result for message 6921151459798053244
+2021/01/24 02-42:29 DEBUG - Receiving items from the network...
+2021/01/24 02-42:29 DEBUG - Assigned msg_id = 6921151460693044164 to MsgsAck (7f06aa804bb0)
+2021/01/24 02-42:29 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-42:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-42:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-42:29 DEBUG - Assigned msg_id = 6921151460699089508 to MsgsAck (7f06aa8049d0)
+2021/01/24 02-42:29 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:28 INFO - ###########################################################
+2021/01/24 02-43:28 INFO - Starting Process!
+2021/01/24 02-43:28 DEBUG - Root Path: /app
+2021/01/24 02-43:28 DEBUG - Using Download Dir: /app/downloads
+2021/01/24 02-43:28 DEBUG - Using selector: EpollSelector
+2021/01/24 02-43:28 INFO - Connecting to 149.154.167.51:443/TcpFull...
+2021/01/24 02-43:28 DEBUG - Connection attempt 1...
+2021/01/24 02-43:28 DEBUG - Connection success!
+2021/01/24 02-43:28 DEBUG - Starting send loop
+2021/01/24 02-43:28 DEBUG - Starting receive loop
+2021/01/24 02-43:28 INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2021/01/24 02-43:28 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:28 DEBUG - Assigned msg_id = 6921151715984729284 to InvokeWithLayerRequest (7fb4e2cad520)
+2021/01/24 02-43:28 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-43:28 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:28 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:28 DEBUG - Receiving items from the network...
+2021/01/24 02-43:29 DEBUG - Handling bad salt for message 6921151715984729284
+2021/01/24 02-43:29 DEBUG - 1 message(s) will be resent
+2021/01/24 02-43:29 DEBUG - Receiving items from the network...
+2021/01/24 02-43:29 DEBUG - Assigned msg_id = 6921151717123885268 to InvokeWithLayerRequest (7fb4e2cad520)
+2021/01/24 02-43:29 DEBUG - Encrypting 1 message(s) in 80 bytes for sending
+2021/01/24 02-43:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:29 DEBUG - Assigned msg_id = 6921151717125629540 to MsgsAck (7fb4e2cad640)
+2021/01/24 02-43:29 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:29 DEBUG - Handling container
+2021/01/24 02-43:29 DEBUG - Handling new session created
+2021/01/24 02-43:29 DEBUG - Handling acknowledge for [6921151717123885268]
+2021/01/24 02-43:29 DEBUG - Receiving items from the network...
+2021/01/24 02-43:29 DEBUG - Handling RPC result for message 6921151717123885268
+2021/01/24 02-43:29 DEBUG - Receiving items from the network...
+2021/01/24 02-43:29 DEBUG - Assigned msg_id = 6921151717999980088 to GetUsersRequest (7fb4e2cade80)
+2021/01/24 02-43:29 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-43:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:29 DEBUG - Assigned msg_id = 6921151718001464960 to MsgsAck (7fb4e2cad9a0)
+2021/01/24 02-43:29 DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2021/01/24 02-43:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:29 DEBUG - Handling RPC result for message 6921151717999980088
+2021/01/24 02-43:29 DEBUG - Receiving items from the network...
+2021/01/24 02-43:29 DEBUG - Assigned msg_id = 6921151718869309540 to MsgsAck (7fb4e2cadee0)
+2021/01/24 02-43:29 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:29 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:29 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:29 DEBUG - Assigned msg_id = 6921151718872017020 to MsgsAck (7fb4e2cadcd0)
+2021/01/24 02-43:29 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:33 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:33 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:33 DEBUG - Assigned msg_id = 6921151736206288940 to SendCodeRequest (7fb4e2cade20)
+2021/01/24 02-43:33 DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2021/01/24 02-43:33 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:33 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:33 DEBUG - Handling RPC result for message 6921151736206288940
+2021/01/24 02-43:33 DEBUG - Receiving items from the network...
+2021/01/24 02-43:38 DEBUG - Assigned msg_id = 6921151757964905516 to GetUsersRequest (7fb4e2cada00)
+2021/01/24 02-43:38 DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2021/01/24 02-43:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:38 DEBUG - Assigned msg_id = 6921151757971712844 to MsgsAck (7fb4e2cadd30)
+2021/01/24 02-43:38 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:38 DEBUG - Handling RPC result for message 6921151757964905516
+2021/01/24 02-43:38 DEBUG - Receiving items from the network...
+2021/01/24 02-43:38 DEBUG - Assigned msg_id = 6921151758825861708 to MsgsAck (7fb4e2c40340)
+2021/01/24 02-43:38 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:38 DEBUG - Assigned msg_id = 6921151758832104460 to MsgsAck (7fb4e2cadeb0)
+2021/01/24 02-43:38 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:38 DEBUG - Assigned msg_id = 6921151758839923636 to SignInRequest (7fb4e2cadf40)
+2021/01/24 02-43:38 DEBUG - Encrypting 1 message(s) in 64 bytes for sending
+2021/01/24 02-43:38 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:38 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:39 DEBUG - Handling RPC result for message 6921151758839923636
+2021/01/24 02-43:39 DEBUG - Receiving items from the network...
+2021/01/24 02-43:39 DEBUG - Assigned msg_id = 6921151760044166940 to MsgsAck (7fb4e2c40250)
+2021/01/24 02-43:39 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2021/01/24 02-43:39 DEBUG - Encrypted messages put in a queue to be sent
+2021/01/24 02-43:39 DEBUG - Waiting for messages to send...
+2021/01/24 02-43:39 DEBUG - Assigned msg_id = 6921151760048713108 to MsgsAck (7fb4e2c40490)
+2021/01/24 02-43:39 DEBUG - Encrypting 1 message(s) in 36 bytes for sending
