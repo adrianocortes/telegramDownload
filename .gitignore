@@ -161,3 +161,6 @@ dmypy.json
 *.docx
 *.xls
 *.xlsx
+
+*.session
+*.session*
