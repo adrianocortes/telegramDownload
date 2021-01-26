@@ -156,7 +156,7 @@ Ex.: ln -s /media/videos /telegramDownload/Downloads
   Ex.:
 
   ``` 
-  phone_number= +5562984012013
+  phone_number= +55xxxxxxxxxxx
   ```
 <br /> 
 <br /> 
@@ -191,7 +191,7 @@ Ex.: ln -s /media/videos /telegramDownload/Downloads
   Ex.:
 
     ```
-    channel_username=@adrianocortes
+    channel_username=@your_telegram_username
     channel_username=https://t.me/usuariosgithubbrasil
     ``` 
 <br /> 
